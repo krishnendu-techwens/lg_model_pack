@@ -1,0 +1,17 @@
+{
+  "name": "@krishnendu-techwens/lg_models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishnendu-techwens/lg_model_pack.git"
+  },
+  "homepage": "https://github.com/krishnendu-techwens/lg_model_pack#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
